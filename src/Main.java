@@ -201,7 +201,7 @@ public class Main {
 
         while(true) {
             System.out.printf(
-                    "Choose condiments: [Press 0 when you're done]\n\t" +
+                    "Choose sauces: [Press 0 when you're done]\n\t" +
                             "1. Ketchup\n\t" +
                             "2. Mayonnaise\n\t" +
                             "3. Mustard\n\t" +
